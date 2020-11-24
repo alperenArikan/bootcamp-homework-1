@@ -61,8 +61,8 @@ html {
 .arrow-card::before {
   content: ">";
   position: absolute;
-  top: -.79rem;
-  right: 0;
+  top: -.82rem;
+  right: -.1rem;
   color: #8f8f8f; }
 
 /*!
